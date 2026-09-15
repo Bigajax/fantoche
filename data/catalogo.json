@@ -1,0 +1,1224 @@
+{
+  "categorias": [
+    {
+      "id": "c-natacao",
+      "nome": "Natação",
+      "slug": "natacao",
+      "ordem": 1,
+      "ativo": true,
+      "capa": "/produtos/oculos-de-natacao-adulto.webp",
+      "capaBlur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAkAA4BaJbACdAD0YDOdE0AA+p/Herjl6GqKLdLD9wZHD5tCOMrD3w7ptp73Y3xFsVu9OyoXRBWKHTDkJBb3ISL7dDgAAAA="
+    },
+    {
+      "id": "c-esportes",
+      "nome": "Esportes",
+      "slug": "esportes",
+      "ordem": 2,
+      "ativo": true,
+      "capa": "/produtos/bola-de-futebol.webp",
+      "capaBlur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoMAAgAA4BaJQBOgCKShUKAAP7OB15BmEHyA9gIjPIa41t69fa8Ao8f1Y2H0r8caQWbiraANg9yiTvxLzQAAA=="
+    },
+    {
+      "id": "c-lazer",
+      "nome": "Lazer",
+      "slug": "lazer",
+      "ordem": 3,
+      "ativo": true,
+      "capa": "/produtos/piscina-inflavel.webp",
+      "capaBlur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAgCdASoMAAgAA4BaJbACdGuAt/8DH01KaGBAAP72r1/4hdDZHyVxpKqKa7x9X52114LF1iMqtD0DWFYmps4wo5HalWn8x+Dzn9A7EAA="
+    },
+    {
+      "id": "c-roupas",
+      "nome": "Roupas",
+      "slug": "roupas",
+      "ordem": 4,
+      "ativo": true,
+      "capa": "/produtos/bone-fantoche.webp",
+      "capaBlur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoMAAgAA4BaJbACdEf/gbjF8WwQ8wAA/vdcTRgFO9KRLN4Wym7A9I1px297iFn4lpNxWabS4O3cwCZAWxJ4LyzTvDPGnuJOYg0iIn8fk/umdeAAAAA="
+    },
+    {
+      "id": "c-acessorios",
+      "nome": "Acessórios",
+      "slug": "acessorios",
+      "ordem": 5,
+      "ativo": true,
+      "capa": "/produtos/garrafa-termica.webp",
+      "capaBlur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAA4BaJagCdADdjA2QIEAA/qZzRKTBDpkD1urZ+8KCX/qZN244Cbxy2qwzKCmrv8NbQcUmREWCb4wNyd1KeCWlT6VfXWDoAAAA"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "p-001",
+      "codigo": "FT-0001",
+      "nome": "Boné Fantoche",
+      "slug": "bone-fantoche",
+      "descricao": "O boné da casa: aba curva, ajuste por fecho, o cavalinho da Fantoche bordado na frente. Tamanho único.",
+      "marca": "Fantoche",
+      "preco": 35,
+      "preco_promocional": null,
+      "categoria_slug": "roupas",
+      "tamanhos": [],
+      "cores": [
+        "azul"
+      ],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 1,
+      "imagens": [
+        {
+          "url": "/produtos/bone-fantoche.webp",
+          "largura": 667,
+          "altura": 449,
+          "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoMAAgAA4BaJbACdEf/gbjF8WwQ8wAA/vdcTRgFO9KRLN4Wym7A9I1px297iFn4lpNxWabS4O3cwCZAWxJ4LyzTvDPGnuJOYg0iIn8fk/umdeAAAAA=",
+          "alt": "Boné Fantoche",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-002",
+      "codigo": "FT-0002",
+      "nome": "Camiseta 100% Dry-Fit Feminina",
+      "slug": "camiseta-100-dry-fit-feminina",
+      "descricao": "Tecido dry-fit que seca rápido e não gruda no corpo. Para treinar, correr ou passar o dia no calor.",
+      "marca": "Fantoche",
+      "preco": 60,
+      "preco_promocional": null,
+      "categoria_slug": "roupas",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [
+        "azul"
+      ],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 2,
+      "imagens": [
+        {
+          "url": "/produtos/camiseta-100-dry-fit-feminina.webp",
+          "largura": 1200,
+          "altura": 1200,
+          "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAgCdASoMAAwAA4BaJbACdH8IIABcEUhCMPT4AAD+tBCarFw5EvNSSJmtdloN4Fy/xnIahuNfGGK0FejCb8cMIv3jsKmt8nKpRoGTM+g+m9vGvYUcYFIciDTSpFQJpZQ4rd/AAAA=",
+          "alt": "Camiseta 100% Dry-Fit Feminina",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-003",
+      "codigo": "FT-0003",
+      "nome": "Camiseta 100% Dry-Fit Masculina",
+      "slug": "camiseta-100-dry-fit-masculina",
+      "descricao": "A mesma camiseta dry-fit no corte masculino: leve, respirável, seca em minutos.",
+      "marca": "Fantoche",
+      "preco": 60,
+      "preco_promocional": null,
+      "categoria_slug": "roupas",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [
+        "azul"
+      ],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 102,
+      "imagens": [
+        {
+          "url": "/produtos/camiseta-100-dry-fit-masculina.webp",
+          "largura": 1200,
+          "altura": 1200,
+          "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAgCdASoMAAwAA4BaJbACdH8IIABcEUhCMPT4AAD+tBCarFw5EvNSSJmtdloN4Fy/xnIahuNfGGK0FejCb8cMIv3jsKmt8nKpRoGTM+g+m9vGvYUcYFIciDTSpFQJpZQ4rd/AAAA=",
+          "alt": "Camiseta 100% Dry-Fit Masculina",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-004",
+      "codigo": "FT-0004",
+      "nome": "Óculos de natação adulto",
+      "slug": "oculos-de-natacao-adulto",
+      "descricao": "Lente antiembaçante com proteção UV, vedação em silicone e tira ajustável. Para piscina e mar.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 3,
+      "imagens": [
+        {
+          "url": "/produtos/oculos-de-natacao-adulto.webp",
+          "largura": 1200,
+          "altura": 897,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAkAA4BaJbACdAD0YDOdE0AA+p/Herjl6GqKLdLD9wZHD5tCOMrD3w7ptp73Y3xFsVu9OyoXRBWKHTDkJBb3ISL7dDgAAAA=",
+          "alt": "Óculos de natação adulto",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-005",
+      "codigo": "FT-0005",
+      "nome": "Óculos de natação infantil",
+      "slug": "oculos-de-natacao-infantil",
+      "descricao": "Armação macia, lente colorida e ajuste fácil para a criança colocar sozinha.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 104,
+      "imagens": [
+        {
+          "url": "/produtos/oculos-de-natacao-infantil.webp",
+          "largura": 1024,
+          "altura": 768,
+          "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADwAQCdASoMAAkAA4BaJbACdADdcv7Al0AA+QWWuIY3gVPwfxD+wKiMKS4kp5/ldck/Wsfban7K5cBZKhe5ZokBu/6Esib9azbs23yl09gaFRRXj7KTz5pAAAA=",
+          "alt": "Óculos de natação infantil",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-006",
+      "codigo": "FT-0006",
+      "nome": "Touca de silicone",
+      "slug": "touca-de-silicone",
+      "descricao": "Silicone liso que não puxa o cabelo, protege do cloro e dura temporadas.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [],
+      "cores": [
+        "várias cores"
+      ],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 105,
+      "imagens": [
+        {
+          "url": "/produtos/touca-de-silicone.webp",
+          "largura": 1024,
+          "altura": 683,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoMAAgAA4BaJQBOgBttSbRKAADcxL9Ti53fFtnhJBupdczgMyW1c/cVZEeM6BioXITo081AxHy3g8ih8oAAAA==",
+          "alt": "Touca de silicone",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-007",
+      "codigo": "FT-0007",
+      "nome": "Maiô de natação",
+      "slug": "maio-de-natacao",
+      "descricao": "Tecido resistente ao cloro, costas nadador, para treino e competição.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 4,
+      "imagens": [
+        {
+          "url": "/produtos/maio-de-natacao.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoJAAwAA4BaJagCsH8AGZL5JcIAAPz+DO6XLfOc15PdF3Dg/aKPz1rUCfa56lRlpQGUAK3kD1iA3w0FGeO7sNNxXIEelcoBhoHTaYzFmKIF/Ot5+AA=",
+          "alt": "Maiô de natação",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-008",
+      "codigo": "FT-0008",
+      "nome": "Prancha de natação",
+      "slug": "prancha-de-natacao",
+      "descricao": "Prancha em EVA para treino de pernada, adulto e infantil.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 107,
+      "imagens": [
+        {
+          "url": "/produtos/prancha-de-natacao.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAADQAQCdASoJAAwAA4BaJbACdAELXsxiMAD+5pMj0VPaI/ev5brcOSckprLfHm0+eddqGMcxp/lZOFy6MPoYeJC1BOQAAA==",
+          "alt": "Prancha de natação",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-009",
+      "codigo": "FT-0009",
+      "nome": "Nadadeira",
+      "slug": "nadadeira",
+      "descricao": "Pé de pato curto para treino de pernada e força na piscina.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [
+        "33-34",
+        "35-36",
+        "37-38",
+        "39-40",
+        "41-42"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 108,
+      "imagens": [
+        {
+          "url": "/produtos/nadadeira.webp",
+          "largura": 1200,
+          "altura": 823,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAgAA4BaJYgCw7EVzyEDXAAA/vISvqvFmk6Z8WkuLQSFVkZaPhqXYglNZUip0rw8D6L+aDrda+MXA0NhhCFl2PC+AAAA",
+          "alt": "Nadadeira",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-010",
+      "codigo": "FT-0010",
+      "nome": "Boia de braço infantil",
+      "slug": "boia-de-braco-infantil",
+      "descricao": "Par de boias de braço para a criança ganhar confiança na água. Com a supervisão de um adulto.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "natacao",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 109,
+      "imagens": [
+        {
+          "url": "/produtos/boia-de-braco-infantil.webp",
+          "largura": 500,
+          "altura": 333,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMAAgAA4BaJbACdADdoYLogADMlA1+M3i1CCTrwvk9Cp0pRkDq7jbfTtBpCXbhyAslBxoHEQfxbA7VgfEyWsN0pefsAAAA",
+          "alt": "Boia de braço infantil",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-011",
+      "codigo": "FT-0011",
+      "nome": "Bola de futebol",
+      "slug": "bola-de-futebol",
+      "descricao": "Bola oficial tamanho 5, costura reforçada, para campo e society.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 5,
+      "imagens": [
+        {
+          "url": "/produtos/bola-de-futebol.webp",
+          "largura": 1023,
+          "altura": 680,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoMAAgAA4BaJQBOgCKShUKAAP7OB15BmEHyA9gIjPIa41t69fa8Ao8f1Y2H0r8caQWbiraANg9yiTvxLzQAAA==",
+          "alt": "Bola de futebol",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-012",
+      "codigo": "FT-0012",
+      "nome": "Bola de vôlei",
+      "slug": "bola-de-volei",
+      "descricao": "Toque macio, tamanho oficial, para quadra e areia.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 111,
+      "imagens": [
+        {
+          "url": "/produtos/bola-de-volei.webp",
+          "largura": 1200,
+          "altura": 821,
+          "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoMAAgAA4BaJQBOgBupIwAAAMnhX/dv0xmsuCAzjCjfcZ96dwe+IiaTJsUWcJrSgQ1rALagAAA=",
+          "alt": "Bola de vôlei",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-013",
+      "codigo": "FT-0013",
+      "nome": "Bola de basquete",
+      "slug": "bola-de-basquete",
+      "descricao": "Tamanho 7, borracha com aderência para quadra externa.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 112,
+      "imagens": [
+        {
+          "url": "/produtos/bola-de-basquete.webp",
+          "largura": 960,
+          "altura": 640,
+          "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAAAQAgCdASoMAAgAA4BaJYwCdAELXC4Mtv4AAP5FH9pqaS6SavwZTwVjVR0Ttmv+XscgPMxBtD1OVryndi4MnH6j0AA=",
+          "alt": "Bola de basquete",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-014",
+      "codigo": "FT-0014",
+      "nome": "Raquete de beach tennis",
+      "slug": "raquete-de-beach-tennis",
+      "descricao": "Fibra de vidro com núcleo de EVA, para quem está começando na areia.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 6,
+      "imagens": [
+        {
+          "url": "/produtos/raquete-de-beach-tennis.webp",
+          "largura": 1024,
+          "altura": 685,
+          "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAgAA4BaJbACdADbVFCUAAD+vHOP6H3Kb3V9eIVGI4+h865foNz7crmZCUm16iFAkkgAAAA=",
+          "alt": "Raquete de beach tennis",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-015",
+      "codigo": "FT-0015",
+      "nome": "Raquete de tênis de mesa",
+      "slug": "raquete-de-tenis-de-mesa",
+      "descricao": "Cabo anatômico, borracha lisa dos dois lados. Vendida por unidade.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 114,
+      "imagens": [
+        {
+          "url": "/produtos/raquete-de-tenis-de-mesa.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoJAAwAA4BaJagCdADdSM05gAD9FIuYs8ZO6r4BYO3slN8xnes8BWKdOJBB7lW5axJbuxgAAAA=",
+          "alt": "Raquete de tênis de mesa",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-016",
+      "codigo": "FT-0016",
+      "nome": "Luvas de goleiro",
+      "slug": "luvas-de-goleiro",
+      "descricao": "Palma em látex, fecho no pulso, proteção nos dedos.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 115,
+      "imagens": [
+        {
+          "url": "/produtos/luvas-de-goleiro.webp",
+          "largura": 1200,
+          "altura": 900,
+          "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAkAA4BaJYgCdADbQGkoAAD+6ks1MSV4SriLU7aV8ZM8sk35IPqQ6LPL3Ftv/hr4o7xdGT9JdUsIAAA=",
+          "alt": "Luvas de goleiro",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-017",
+      "codigo": "FT-0017",
+      "nome": "Cones de treino",
+      "slug": "cones-de-treino",
+      "descricao": "Kit com 10 cones de PVC flexível para circuitos e agilidade.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 116,
+      "imagens": [
+        {
+          "url": "/produtos/cones-de-treino.webp",
+          "largura": 1200,
+          "altura": 1040,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADwAQCdASoMAAoAA4BaJZACdADbYV2u8AAA/jrD76lD/EiTV+5K8pQyIfHqQ+WVcWbcYPhi3zDL3TvMDflvy5KPQSETRylwI7tYFAAA",
+          "alt": "Cones de treino",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-018",
+      "codigo": "FT-0018",
+      "nome": "Corda de pular",
+      "slug": "corda-de-pular",
+      "descricao": "Cabo de aço revestido, rolamento no punho, comprimento ajustável.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 117,
+      "imagens": [
+        {
+          "url": "/produtos/corda-de-pular.webp",
+          "largura": 1000,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAADwAQCdASoIAAwAA4BaJQBOgB6R96zuVkAA/hn8WvljGB6rPmRiTn1ZHf2IdzkGISjkjHZ4RS8JPI4s0QQR1gAA",
+          "alt": "Corda de pular",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-019",
+      "codigo": "FT-0019",
+      "nome": "Caneleira",
+      "slug": "caneleira",
+      "descricao": "Par de caneleiras com meia de fixação, para futebol e futsal.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [
+        "P",
+        "M",
+        "G"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 118,
+      "imagens": [
+        {
+          "url": "/produtos/caneleira.webp",
+          "largura": 1024,
+          "altura": 950,
+          "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAAAQAgCdASoMAAsAA4BaJZACdAC4iWMt/6dAAPylSjRCfxXGJzCfDfpObuST1jwbrII/DjGMLBZN9gNXhTuAAA==",
+          "alt": "Caneleira",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-020",
+      "codigo": "FT-0020",
+      "nome": "Apito de árbitro",
+      "slug": "apito-de-arbitro",
+      "descricao": "Apito profissional com cordão, som alto para quadra e campo.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "esportes",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 119,
+      "imagens": [
+        {
+          "url": "/produtos/apito-de-arbitro.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAACwAQCdASoJAAwAA4BaJZQCdADbARHgAP50kcK7I/mXpiLylHlrlei3oa54qczsfnhcx4KFM3aFVJgAAAA=",
+          "alt": "Apito de árbitro",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-021",
+      "codigo": "FT-0021",
+      "nome": "Piscina inflável",
+      "slug": "piscina-inflavel",
+      "descricao": "Piscina inflável de 3 anéis para o quintal, com tampão de esvaziamento rápido.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 7,
+      "imagens": [
+        {
+          "url": "/produtos/piscina-inflavel.webp",
+          "largura": 1200,
+          "altura": 800,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAgCdASoMAAgAA4BaJbACdGuAt/8DH01KaGBAAP72r1/4hdDZHyVxpKqKa7x9X52114LF1iMqtD0DWFYmps4wo5HalWn8x+Dzn9A7EAA=",
+          "alt": "Piscina inflável",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-022",
+      "codigo": "FT-0022",
+      "nome": "Boia inflável grande",
+      "slug": "boia-inflavel-grande",
+      "descricao": "Boia gigante para piscina e praia, PVC resistente, vários modelos.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 121,
+      "imagens": [
+        {
+          "url": "/produtos/boia-inflavel-grande.webp",
+          "largura": 1024,
+          "altura": 680,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAwAgCdASoMAAgAA4BaJbACdDiAN5EBR5xX8ADNZsZrqcOV3Evc88Q1LcVULbWcR8/wvpmwl3FMken93Wv6yVORU9mcmfloYjYfrav4AAA=",
+          "alt": "Boia inflável grande",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-023",
+      "codigo": "FT-0023",
+      "nome": "Frisbee",
+      "slug": "frisbee",
+      "descricao": "Disco de plástico flexível para praia, parque e cachorro.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 122,
+      "imagens": [
+        {
+          "url": "/produtos/frisbee.webp",
+          "largura": 1200,
+          "altura": 819,
+          "blur": "data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAQCdASoMAAgAA4BaJZgAAl0g7ju7EAD+wHoW3iSt3l0UZ/acJcmU1p9pQ6XGtDOrshEEd7QhfL/PyTOdrv4AAAA=",
+          "alt": "Frisbee",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-024",
+      "codigo": "FT-0024",
+      "nome": "Skate",
+      "slug": "skate",
+      "descricao": "Shape de maple 7 lâminas, rodas 52 mm, truck de alumínio. Para iniciante e intermediário.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 123,
+      "imagens": [
+        {
+          "url": "/produtos/skate.webp",
+          "largura": 1024,
+          "altura": 768,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAADQAQCdASoMAAkAA4BaJYgC7AD0EqJu0ADiegwuYJHI1/lzt2qB5FucdDME4LmcEH9i6Xjd+l6ZoElvfDwIp1EnKb43uE/j9vcKsMAA",
+          "alt": "Skate",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-025",
+      "codigo": "FT-0025",
+      "nome": "Patins inline",
+      "slug": "patins-inline",
+      "descricao": "Patins inline ajustável, rodas de PU e freio traseiro.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [
+        "34",
+        "36",
+        "38",
+        "40",
+        "42"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 124,
+      "imagens": [
+        {
+          "url": "/produtos/patins-inline.webp",
+          "largura": 1200,
+          "altura": 784,
+          "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoMAAgAA4BaJZQC7ADcYHdM5cAA/prWeP5AHAKyRUs+7jkRT9bblPR6IEcisKt8jG7QaMxrO4AAAA==",
+          "alt": "Patins inline",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-026",
+      "codigo": "FT-0026",
+      "nome": "Kit frescobol",
+      "slug": "kit-frescobol",
+      "descricao": "Duas raquetes de madeira e bolinha, para a praia e o quintal.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 125,
+      "imagens": [
+        {
+          "url": "/produtos/kit-frescobol.webp",
+          "largura": 122,
+          "altura": 258,
+          "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAADwAQCdASoGAAwAA4BaJYgCdADc+PEFyVAAzEl0miTrlHNlTK5uPo7s+lC2H6q4AKYT1CsAGtsMHDuRe5eAAA==",
+          "alt": "Kit frescobol",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-027",
+      "codigo": "FT-0027",
+      "nome": "Bola de praia",
+      "slug": "bola-de-praia",
+      "descricao": "Bola inflável colorida, 50 cm, para piscina e praia.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 126,
+      "imagens": [
+        {
+          "url": "/produtos/bola-de-praia.webp",
+          "largura": 1200,
+          "altura": 1200,
+          "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAAAwAgCdASoMAAwAA4BaJbACdAELYsZIZqJtAAD9AZgLVcjpXkblhHFYaVIRtvk2eJXnPHA8LvCf6AqX9P/RgYtiMHLN+BOowqcso0DVOcI3/q6XRJpSj4BmazCCOfnlQMAAAA==",
+          "alt": "Bola de praia",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-028",
+      "codigo": "FT-0028",
+      "nome": "Rede de vôlei",
+      "slug": "rede-de-volei",
+      "descricao": "Rede de 9,5 m com cabo de aço, para quadra e areia.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "lazer",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 127,
+      "imagens": [
+        {
+          "url": "/produtos/rede-de-volei.webp",
+          "largura": 1024,
+          "altura": 927,
+          "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAAAQAgCdASoMAAsAA4BaJYgCdAYtBvVc+ZgAAP60L9iYxH4r7PwRZXYv/tNQLQia8sY6h9z4FvM5HgfDqR7cDn9V2NBvPgG1y4IOXOcdApFg4AAA",
+          "alt": "Rede de vôlei",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-029",
+      "codigo": "FT-0029",
+      "nome": "Shorts de corrida",
+      "slug": "shorts-de-corrida",
+      "descricao": "Leve, com forro interno e bolso para a chave.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "roupas",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 128,
+      "imagens": [
+        {
+          "url": "/produtos/shorts-de-corrida.webp",
+          "largura": 1024,
+          "altura": 850,
+          "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoMAAoAA4BaJYwC7ADZW11pDAAA/uonzTV493DdN3WkyysBxn5CDPsENMRKMGIG4dSiQOiPekovjPbDukuj4ve68AA=",
+          "alt": "Shorts de corrida",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-030",
+      "codigo": "FT-0030",
+      "nome": "Legging fitness",
+      "slug": "legging-fitness",
+      "descricao": "Cós alto, tecido com compressão leve, não fica transparente.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "roupas",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 129,
+      "imagens": [
+        {
+          "url": "/produtos/legging-fitness.webp",
+          "largura": 1001,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRkoAAABXRUJQVlA4ID4AAACQAQCdASoIAAwAA4BaJZwAAuaSoEAA/vAamV9piLJJajkkbTY9QcsLMHp/JE4BWK+aou5grh6wn2nyqACAAA==",
+          "alt": "Legging fitness",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-031",
+      "codigo": "FT-0031",
+      "nome": "Moletom com capuz",
+      "slug": "moletom-com-capuz",
+      "descricao": "Moletom flanelado com capuz e bolso canguru, para o pós-treino.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "roupas",
+      "tamanhos": [
+        "P",
+        "M",
+        "G",
+        "GG"
+      ],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 130,
+      "imagens": [
+        {
+          "url": "/produtos/moletom-com-capuz.webp",
+          "largura": 350,
+          "altura": 350,
+          "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAQCdASoMAAwAA4BaJZwAArCuauqUQAAA/vVfJnZdYMUMjv4pyL1htgu6Y7FFWhPCfFHvyhZW25JWv5QZ8y9GqD7UCKEc2gG/t2GyeR38lShkKyOAAA==",
+          "alt": "Moletom com capuz",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-032",
+      "codigo": "FT-0032",
+      "nome": "Garrafa térmica",
+      "slug": "garrafa-termica",
+      "descricao": "Inox de parede dupla, 750 ml, gelado por 24 h.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": true,
+      "ativo": true,
+      "ordem": 8,
+      "imagens": [
+        {
+          "url": "/produtos/garrafa-termica.webp",
+          "largura": 1200,
+          "altura": 900,
+          "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAA4BaJagCdADdjA2QIEAA/qZzRKTBDpkD1urZ+8KCX/qZN244Cbxy2qwzKCmrv8NbQcUmREWCb4wNyd1KeCWlT6VfXWDoAAAA",
+          "alt": "Garrafa térmica",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-033",
+      "codigo": "FT-0033",
+      "nome": "Squeeze",
+      "slug": "squeeze",
+      "descricao": "Garrafa de 600 ml com bico, livre de BPA.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 132,
+      "imagens": [
+        {
+          "url": "/produtos/squeeze.webp",
+          "largura": 1200,
+          "altura": 900,
+          "blur": "data:image/webp;base64,UklGRjgAAABXRUJQVlA4ICwAAABwAQCdASoMAAkAA4BaJYwCdAFAAAD+1tuIrpLtKsI9G1F7IgTD3wRBAMAAAA==",
+          "alt": "Squeeze",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-034",
+      "codigo": "FT-0034",
+      "nome": "Toalha esportiva",
+      "slug": "toalha-esportiva",
+      "descricao": "Microfibra que seca rápido e cabe na mochila.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 133,
+      "imagens": [
+        {
+          "url": "/produtos/toalha-esportiva.webp",
+          "largura": 1000,
+          "altura": 1000,
+          "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAADwAQCdASoMAAwAA4BaJZQAAv94gyMgOHAA/vi6VmnfmwOVnAu8zz/8JPgKKrePLuEpGpZpvOwhHysrkteW1Am+JY6iWLnDE3AAAA==",
+          "alt": "Toalha esportiva",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-035",
+      "codigo": "FT-0035",
+      "nome": "Mochila esportiva",
+      "slug": "mochila-esportiva",
+      "descricao": "Compartimento para tênis, bolso para garrafa, alças acolchoadas.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 134,
+      "imagens": [
+        {
+          "url": "/produtos/mochila-esportiva.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAQAgCdASoJAAwAA4BaJZACdAELZTAsNgjgAP62v3p73jWhhw0Y5BGq93N8CHyEhPbLYFi5C5b61A4y61QXNAdI2wlIRLZZXGAYAAAA",
+          "alt": "Mochila esportiva",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-036",
+      "codigo": "FT-0036",
+      "nome": "Tapete de yoga",
+      "slug": "tapete-de-yoga",
+      "descricao": "Tapete antiderrapante de 6 mm com alça para transporte.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 135,
+      "imagens": [
+        {
+          "url": "/produtos/tapete-de-yoga.webp",
+          "largura": 1200,
+          "altura": 900,
+          "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAAAQAgCdASoMAAkAA4BaJbACdAEDfGbp3NNAAP60DB814Kiyh/6LvFAB309wq1h7Ejv0qUJmMUcvZxy5r7eXxdJ5s4fVqwc9Lp21NKgAAAA=",
+          "alt": "Tapete de yoga",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-037",
+      "codigo": "FT-0037",
+      "nome": "Relógio esportivo",
+      "slug": "relogio-esportivo",
+      "descricao": "Digital, resistente à água, cronômetro e luz.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 136,
+      "imagens": [
+        {
+          "url": "/produtos/relogio-esportivo.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwAgCdASoJAAwAA4BaJZQCdAEekq79DmtpgAD+5a+sUNoAdGOJ0bTzBQpqQoNhpqr1F5i9ZgG29Tq+CIXoIGUkmsAAAA==",
+          "alt": "Relógio esportivo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-038",
+      "codigo": "FT-0038",
+      "nome": "Protetor solar esportivo",
+      "slug": "protetor-solar-esportivo",
+      "descricao": "FPS 50, resistente à água e ao suor, toque seco.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 137,
+      "imagens": [
+        {
+          "url": "/produtos/protetor-solar-esportivo.webp",
+          "largura": 1125,
+          "altura": 1500,
+          "blur": "data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAQCdASoJAAwAA4BaJZQCdADdHUuJc7AAzj2h8PAk+dyHfBh1s5lwyE0nbIg5xlUuwdHP0rhQu6dFj/xSfTE1zAU3iziBoAA=",
+          "alt": "Protetor solar esportivo",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-039",
+      "codigo": "FT-0039",
+      "nome": "Bolsa impermeável",
+      "slug": "bolsa-impermeavel",
+      "descricao": "Saco estanque de 10 L para praia, caiaque e piscina.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 138,
+      "imagens": [
+        {
+          "url": "/produtos/bolsa-impermeavel.webp",
+          "largura": 1200,
+          "altura": 1414,
+          "blur": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADQAQCdASoKAAwAA4BaJbACdADdkEoGsAD+9HdL75DOjQBfntgW1ffQRPPcrg9NgHGIGRqWHjsU8kIxxwwGv8EkeNia/KTzoJUvyvBrZAJLfsbBJyW1jAAA",
+          "alt": "Bolsa impermeável",
+          "ordem": 0
+        }
+      ]
+    },
+    {
+      "id": "p-040",
+      "codigo": "FT-0040",
+      "nome": "Elástico de treino",
+      "slug": "elastico-de-treino",
+      "descricao": "Kit com 5 faixas de resistência, da leve à pesada.",
+      "marca": null,
+      "preco": null,
+      "preco_promocional": null,
+      "categoria_slug": "acessorios",
+      "tamanhos": [],
+      "cores": [],
+      "destaque": false,
+      "ativo": true,
+      "ordem": 139,
+      "imagens": [
+        {
+          "url": "/produtos/elastico-de-treino.webp",
+          "largura": 590,
+          "altura": 427,
+          "blur": "data:image/webp;base64,UklGRkQAAABXRUJQVlA4IDgAAACwAQCdASoMAAkAA4BaJaQAAlnlHMgAAP71SxzfJkYrVz5g/cs0DefAUZGej6rTkzNKmNweFY4AAA==",
+          "alt": "Elástico de treino",
+          "ordem": 0
+        }
+      ]
+    }
+  ],
+  "hero": [
+    {
+      "url": "/produtos/bone-fantoche.webp",
+      "largura": 667,
+      "altura": 449,
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAABQAgCdASoMAAgAA4BaJbACdEf/gbjF8WwQ8wAA/vdcTRgFO9KRLN4Wym7A9I1px297iFn4lpNxWabS4O3cwCZAWxJ4LyzTvDPGnuJOYg0iIn8fk/umdeAAAAA=",
+      "alt": "Boné Fantoche",
+      "ordem": 0,
+      "slug": "bone-fantoche"
+    },
+    {
+      "url": "/produtos/camiseta-100-dry-fit-feminina.webp",
+      "largura": 1200,
+      "altura": 1200,
+      "blur": "data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACQAgCdASoMAAwAA4BaJbACdH8IIABcEUhCMPT4AAD+tBCarFw5EvNSSJmtdloN4Fy/xnIahuNfGGK0FejCb8cMIv3jsKmt8nKpRoGTM+g+m9vGvYUcYFIciDTSpFQJpZQ4rd/AAAA=",
+      "alt": "Camiseta 100% Dry-Fit Feminina",
+      "ordem": 0,
+      "slug": "camiseta-100-dry-fit-feminina"
+    },
+    {
+      "url": "/produtos/oculos-de-natacao-adulto.webp",
+      "largura": 1200,
+      "altura": 897,
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAQCdASoMAAkAA4BaJbACdAD0YDOdE0AA+p/Herjl6GqKLdLD9wZHD5tCOMrD3w7ptp73Y3xFsVu9OyoXRBWKHTDkJBb3ISL7dDgAAAA=",
+      "alt": "Óculos de natação adulto",
+      "ordem": 0,
+      "slug": "oculos-de-natacao-adulto"
+    },
+    {
+      "url": "/produtos/maio-de-natacao.webp",
+      "largura": 1125,
+      "altura": 1500,
+      "blur": "data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAAAQAgCdASoJAAwAA4BaJagCsH8AGZL5JcIAAPz+DO6XLfOc15PdF3Dg/aKPz1rUCfa56lRlpQGUAK3kD1iA3w0FGeO7sNNxXIEelcoBhoHTaYzFmKIF/Ot5+AA=",
+      "alt": "Maiô de natação",
+      "ordem": 0,
+      "slug": "maio-de-natacao"
+    },
+    {
+      "url": "/produtos/bola-de-futebol.webp",
+      "largura": 1023,
+      "altura": 680,
+      "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAACwAQCdASoMAAgAA4BaJQBOgCKShUKAAP7OB15BmEHyA9gIjPIa41t69fa8Ao8f1Y2H0r8caQWbiraANg9yiTvxLzQAAA==",
+      "alt": "Bola de futebol",
+      "ordem": 0,
+      "slug": "bola-de-futebol"
+    },
+    {
+      "url": "/produtos/raquete-de-beach-tennis.webp",
+      "largura": 1024,
+      "altura": 685,
+      "blur": "data:image/webp;base64,UklGRkgAAABXRUJQVlA4IDwAAADQAQCdASoMAAgAA4BaJbACdADbVFCUAAD+vHOP6H3Kb3V9eIVGI4+h865foNz7crmZCUm16iFAkkgAAAA=",
+      "alt": "Raquete de beach tennis",
+      "ordem": 0,
+      "slug": "raquete-de-beach-tennis"
+    },
+    {
+      "url": "/produtos/piscina-inflavel.webp",
+      "largura": 1200,
+      "altura": 800,
+      "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAABwAgCdASoMAAgAA4BaJbACdGuAt/8DH01KaGBAAP72r1/4hdDZHyVxpKqKa7x9X52114LF1iMqtD0DWFYmps4wo5HalWn8x+Dzn9A7EAA=",
+      "alt": "Piscina inflável",
+      "ordem": 0,
+      "slug": "piscina-inflavel"
+    },
+    {
+      "url": "/produtos/garrafa-termica.webp",
+      "largura": 1200,
+      "altura": 900,
+      "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADwAQCdASoMAAkAA4BaJagCdADdjA2QIEAA/qZzRKTBDpkD1urZ+8KCX/qZN244Cbxy2qwzKCmrv8NbQcUmREWCb4wNyd1KeCWlT6VfXWDoAAAA",
+      "alt": "Garrafa térmica",
+      "ordem": 0,
+      "slug": "garrafa-termica"
+    }
+  ]
+}
