@@ -123,7 +123,7 @@ export function Rodape({
               </>
             ) : null}
           </p>
-          <a href="https://rafaelrazeira.com.br/landing-page" target="_blank" rel="noreferrer" aria-label="Vitrine feita por Rafael Razeira Estúdio" className="flex shrink-0 items-center gap-3 text-marfim-fraco transition-colors hover:text-branco">
+          <a href="https://rafaelrazeira.com.br/vitrine-digital" target="_blank" rel="noreferrer" aria-label="Vitrine feita por Rafael Razeira Estúdio" className="flex shrink-0 items-center gap-3 text-marfim-fraco transition-colors hover:text-branco">
             <span className="text-[0.75rem]">vitrine por</span>
             <MarcaEstudio altura={36} />
           </a>
